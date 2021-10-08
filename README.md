@@ -1,4 +1,6 @@
-### Oi, sou o Leandro atualmente sou um mero estudante de linguagem de progração.
+l### Oi, sou o Leandro atualmente  cursando Engenharia da Computação.
+
+
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ledilk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
